@@ -1,0 +1,3 @@
+[2019-04-03 15:43:30 *20367.2]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 151 byte failed, because connection[fd=1] is closed.
+[2019-04-03 15:43:40 *20367.2]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 151 byte failed, because connection[fd=3] is closed.
+[2019-04-03 15:51:38 *20539.2]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 264 byte failed, because connection[fd=1] is closed.
